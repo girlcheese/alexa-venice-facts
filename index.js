@@ -22,7 +22,7 @@ var FACTS = [
   'The first public casino in the world was opened in Venice in 1638.',
   'Feeding pigeons is not allowed in Venice.',
   'The first public casino opened in 1638 in Venice.',
-  'The first woman every to graduate from any University (in 16XX) was from Venice.'
+  'The first woman every to graduate from any University (in 1678) was <phoneme alphabet="ipa" ph="elena lukrettsja kornaro loredam piskopja">Elena Lucrezia Cornaro Loredan Piscopia</phoneme> from Venice.'
 ]
 
 exports.handler = function (event, context, callback) {

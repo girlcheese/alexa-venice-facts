@@ -7,5 +7,7 @@ of words of Italian.
 I should really have forked the original repository but the project was cobbled together
 during the first UK Alexa Bootcamp. Thanks Liz!
 
-https://github.com/alexa/skill-sample-nodejs-fact
-https://github.com/LizMyers
+## Reference / Acknowledgement
+
+* https://github.com/alexa/skill-sample-nodejs-fact
+* https://github.com/LizMyers
